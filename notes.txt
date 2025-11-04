@@ -1,5 +1,5 @@
 https://youtu.be/XZj4hmbNdSE?si=qVR7EWjMyupKgy-v
 
-timing : 6:32:42
+timing : 7:32:10
 
-AddCourse
+vercel deployment
