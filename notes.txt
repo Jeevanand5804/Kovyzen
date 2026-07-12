@@ -1,5 +1,5 @@
 https://youtu.be/XZj4hmbNdSE?si=qVR7EWjMyupKgy-v
 
-timing : 8:30:00
+timing : 10.01:30
 
-vercel deployment
+Stripe Added
